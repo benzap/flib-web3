@@ -5,4 +5,4 @@
 #+LANGUAGE: en
 #+OPTIONS: H:2 num:t toc:t \n:nil ::t |:t ^:t f:t tex:t
 
-https://img.shields.io/clojars/v/flib/web3.svg]]
+[[https://img.shields.io/clojars/v/flib/web3.svg]]
