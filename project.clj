@@ -1,7 +1,5 @@
-(defproject flib-web3 "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+(defproject flib/web3 "5.0.7-SNAPSHOT"
+  :description "CLJS Foreign Library - web3"
+  :url "http://github.com/benzap/flib-web3"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
-            :url "https://www.eclipse.org/legal/epl-2.0/"}
-  :dependencies [[org.clojure/clojure "1.10.0"]]
-  :repl-options {:init-ns flib-web3.core})
+            :url "https://www.eclipse.org/legal/epl-2.0/"})
