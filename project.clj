@@ -1,4 +1,4 @@
-(defproject flib/web3 "5.0.7-SNAPSHOT"
+(defproject flib/web3 "1.2.4-SNAPSHOT"
   :description "CLJS Foreign Library - web3"
   :url "http://github.com/benzap/flib-web3"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
